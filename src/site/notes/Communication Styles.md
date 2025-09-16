@@ -3,7 +3,7 @@
 ---
 
 # The colours
-Vinh Giang splits each person into a colour, red, green, blue or yellow. While people are a mix of colours each person has a primary that they use.
+Vinh Giang splits each person into a colour; red, green, blue, or yellow. While people are a mix of colours each person has a primary that they use.
 
 ## Red
 Driven by power and results
