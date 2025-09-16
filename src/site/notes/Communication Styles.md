@@ -3,7 +3,7 @@
 ---
 
 # The colours
-Vinh Giang splits each person into a colour, [[#Red]], [[#Green]], [[#Blue]] or [[#Yellow]]. While people are a mix of colours each person has a primary that they use.
+Vinh Giang splits each person into a colour, red, green, blue or yellow. While people are a mix of colours each person has a primary that they use.
 
 ## Red
 Driven by power and results
@@ -38,8 +38,12 @@ Driven by fun and connection
 # Now what?
 There are 3 easy question to put someone in one of these categories.
 
-1. Is the person introverted ([[#Blue]] & [[#Green]]) or extroverted ([[#Red]] & [[#Yellow]])?
-2. Are they a logical ([[#Blue]] & [[#Red]]) or emotional ([[#Green]] & [[#Yellow]]) person?
-3. Do they speak deliberately ([[#Blue]] & [[#Green]]) or quickly ([[#Red]] & [[#Yellow]])?
+1. Is the person introverted (blue & green) or extroverted (red & yellow)?
+2. Are they a logical (blue & red) or emotional (green & yellow) person?
+3. Do they speak deliberately (blue & green) or quickly (red & yellow)?
+
+# Sources
+https://www.youtube.com/watch?v=ikbcrpowlIs
+Surrounded by Idiots by Thomas Erikson
 
 [^1]: Example: So instead of going on a tangent, explain exactly what you are planning on saying and go through them like a list.
